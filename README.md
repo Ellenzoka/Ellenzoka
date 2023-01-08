@@ -44,8 +44,8 @@ Tenho 27 anos (ariana), moro em Guarulhos/SP e estou em transição de carreira!
 ##
 
   <p align="center">
-<a href="https://github.com/Ellen">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ellen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Ellenzoka">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ellenzoka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
   
